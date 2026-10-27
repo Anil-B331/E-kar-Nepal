@@ -6,6 +6,12 @@ The project is split into two main parts:
 1. **Backend**: A Node.js server that connects to a MySQL database.
 2. **Frontend**: A React (Vite) web application.
 
+
+
+
+https://github.com/user-attachments/assets/7ab583b0-ada8-4266-b3af-c0c76056b8ee
+
+
 ---
 
 ## 🛠️ Prerequisites
